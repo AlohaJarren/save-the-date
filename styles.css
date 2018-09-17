@@ -4,9 +4,10 @@ html, body {
     margin: 0%;
     padding: 0%;
     background-image: url("https://www.scihparg.net/wp-content/uploads/2018/01/abstract-2018.jpg");
-    background-size: cover;
-    overflow: hidden;
+    background-size: fill;
+    font-family: 'Roboto', sans-serif;
 }
+
 
 #container {
     width: 100%;
